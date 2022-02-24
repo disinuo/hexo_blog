@@ -1417,7 +1417,7 @@ bitmap（磁盘文件管理）：supperblock，bitmap area1, bitmap area2, inode
 
 radix tree 计数树：一种特殊的Trie树。物理内存、 page cache管理
 
-红黑树
+红黑树 
 
 #### 多级索引
 页表（一级、二级）
